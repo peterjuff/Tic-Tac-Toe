@@ -1,0 +1,8 @@
+{
+  "name": "Tic-Tac-Toe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/peterjuff/Tic-Tac-Toe.git",
+  "author": "<peterjuffernbruch@gmail.com>",
+  "license": "MIT"
+}
